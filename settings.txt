@@ -1,0 +1,12 @@
+FOV:
+250 or 300 (personal preference)
+
+Smoothness:
+0.0005 for snappy (hard aimbot)
+0.00075 for some smoothing (hard but smoother)
+0.001 for very smooth
+probably between 0.001 and 0.002 for softaim idk though I haven't tried
+
+Aimheight:
+3.5 for head/neck
+50 for torso

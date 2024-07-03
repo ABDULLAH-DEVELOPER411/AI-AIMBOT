@@ -1,0 +1,13 @@
+-- SETUP --
+
+Run 'Install Requirements.bat' or type pip install -r requirements.txt into command prompt to install requirements
+
+If anything pops up saying "module not found" just type either pip install (module name) or pip3 install (module name)
+
+Delete the sensitivity file (lib > config > sensitivity) so that you can enter your own sensitivity options
+
+-- STARTUP --
+
+Run 'Run Interstellar.bat' or type python startup.py into the command prompt to run the aimbot
+
+Edit your settings using the configuration file (lib > config > configuration)

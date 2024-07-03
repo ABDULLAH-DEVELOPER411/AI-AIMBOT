@@ -1,0 +1,15 @@
+{
+    "model_path": "lib/fortnite/best.pt",
+    "aimkey": "middleMouse",
+    "fovsize": 300,
+    "mouse_delay": 0.00045,
+    "pixel_increment": 1,
+    "smoothing_enabled": 0,
+    "smoothness": 15,
+    "confidence": 0.70,
+    "triggerbot": 0,
+    "triggerbot_threshold": 8,
+    "aimheight": 15,
+    "fovsquare": 1,
+    "ai_vision": 0
+}
